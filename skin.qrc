@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>skin/add-line_horizontal.png</file>
+        <file>skin/add-line_vertical.png</file>
+        <file>skin/array_down.png</file>
+        <file>skin/bg_login1.jpg</file>
+        <file>skin/bg_login2.jpg</file>
+        <file>skin/black.css</file>
+        <file>skin/black_ok.png</file>
+        <file>skin/blue.css</file>
+        <file>skin/checkbox_checked.png</file>
+        <file>skin/checkbox_unchecked.png</file>
+        <file>skin/error.png</file>
+        <file>skin/Font Awesome Cheatsheet.png</file>
+        <file>skin/fontawesome-webfont.ttf</file>
+        <file>skin/gray.css</file>
+        <file>skin/green_ok.png</file>
+        <file>skin/info.png</file>
+        <file>skin/mask.png</file>
+        <file>skin/navy.css</file>
+        <file>skin/qt_zh_CN.qm</file>
+        <file>skin/question.png</file>
+        <file>skin/radio_normal.png</file>
+        <file>skin/radio_selected.png</file>
+        <file>skin/sub-line_horizontal.png</file>
+        <file>skin/sub-line_vertical.png</file>
+        <file>skin/the_devil.ico</file>
+    </qresource>
+</RCC>

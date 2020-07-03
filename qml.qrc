@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Rsawidget.qml</file>
+        <file>PopBox.qml</file>
+        <file>PopTip.qml</file>
+    </qresource>
+</RCC>
